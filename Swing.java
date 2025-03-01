@@ -4,7 +4,7 @@ import java.awt.Color;
 
 import javax.swing.*;
 
-public class Main {
+public class Swing {
                 
 	public static void main(String[] args) {
 				
